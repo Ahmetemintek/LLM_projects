@@ -1,6 +1,6 @@
 # Fine-Tuning a GPT Model with OpenAI
 
-This repository contains a Jupyter notebook demonstrating the process of fine-tuning a GPT model using the OpenAI API through **Prompt Tuning**. This approach focuses on optimizing the model's responses by crafting specific prompts without modifying the underlying model weights.
+This folder contains a Jupyter notebook demonstrating the process of fine-tuning a GPT model using the OpenAI API through **Prompt Tuning**. This approach focuses on optimizing the model's responses by crafting specific prompts without modifying the underlying model weights.
 
 ## Contents
 
