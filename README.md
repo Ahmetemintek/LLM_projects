@@ -18,7 +18,7 @@ To explore a specific project:
 3. Examine the source code and other resources within the folder
 
 ## Project List
-
+- [Fine-tuning](./fine_tuning)
 - [RAG application with PDF files](./rag_pdf)
 - [Youtube video summarizer](./youtube_summarizer)
 - [Webpage question answering](./webpage_Q&A)
