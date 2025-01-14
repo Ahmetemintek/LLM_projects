@@ -4,7 +4,7 @@ This folder contains a Jupyter notebook demonstrating how to fine-tune the Llama
 
 ## Contents
 
-- `Fine_tune_Llama_2.ipynb`: A comprehensive Jupyter notebook that walks through the fine-tuning process with detailed explanations and implementation steps.
+- `finetune_Llama.ipynb`: A comprehensive Jupyter notebook that walks through the fine-tuning process with detailed explanations and implementation steps.
 - `requirements.txt`: A list of required packages for the notebook.
 
 ## Technical Overview
